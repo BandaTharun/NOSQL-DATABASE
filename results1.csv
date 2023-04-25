@@ -1,0 +1,5 @@
+query,dataset,first_mean_time,first_ci95,mean_time,ci95
+SELECT * FROM data_25 WHERE first_name='Bernardo' ALLOW FILTERING,25%,55.03201485,0,57.436951,9.659261651
+SELECT * FROM data_50 WHERE first_name='Vitoria' AND last_name='Rings' ALLOW FILTERING,50%,60.88280678,0,55.80883026,4.353375957
+SELECT * FROM data_75 WHERE first_name='Zorina' AND last_name='Mannin' AND email='zmanning@booking.com' ALLOW FILTERING,75%,58.88009071,0,58.40826829,9.245406058
+SELECT * FROM data_100 WHERE ip_address='204.93.6.241' AND last_name='Ellwood' ALLOW FILTERING,100%,61.20491028,0,58.81714821,14.62381444

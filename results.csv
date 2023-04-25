@@ -1,0 +1,17 @@
+query,dataset,first_mean_time,first_ci95,mean_time,ci95
+{'first_name': 'Bernardo'},25%,144.47999,0,146.1986303,121.6007391
+"{'first_name': 'Vitoria', 'last_name': 'Rings'}",50%,136.2397671,0,135.1988077,4.980612879
+"{'first_name': 'Zorina', 'last_name': 'Mannin', 'email': 'zmanning@booking.com'}",75%,136.2109184,0,137.594231,16.60157081
+"{'ip_address': '204.93.6.241', 'last_name': 'Ellwood'}",100%,137.7506256,0,170.200634,188.8397045
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
